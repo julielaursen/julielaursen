@@ -1,7 +1,7 @@
 
 ![github-header-image (2)](https://github.com/user-attachments/assets/1b48a27e-f8ad-4881-854c-51557c91dc5a)
 
-<h3 align="center">About me: I'm an experienced SDET and product owner with knowledge about frontend development, backend development, UX/UI, accessibility, cloud technologies, networking and security</h3>
+<h3 align="left">About me: I'm an experienced SDET and product owner with knowledge about frontend development, backend development, UX/UI, accessibility, cloud technologies, networking and security</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=julielaursen" alt="julielaursen" /></a> </p>
 
