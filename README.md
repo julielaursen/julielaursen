@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julie Coleman* </h1>
-<h3 align="center">An experienced SDET with knowledge about frontend development, backend development, UX/UI, accessibility, cloud technologies, networking and security</h3>
+<h3 align="center">An experienced SDET and product owner with knowledge about frontend development, backend development, UX/UI, accessibility, cloud technologies, networking and security</h3>
 <p align="right"><i>*recent name change</i></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julielaursen&label=Profile%20views&color=0e75b6&style=flat" alt="julielaursen" /> </p>
@@ -7,7 +7,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=julielaursen" alt="julielaursen" /></a> </p>
 
 - 🌱 I’m currently learning **UX/UI through Austin Community College**
-- 🤝 I help organize <a href="https://devopsdays.org/events/2025-austin/welcome/">DevOpsDays Austin</a>
+- 🤝 I'm an organizer focused on Marketing <a href="https://devopsdays.org/events/2025-austin/welcome/">DevOpsDays Austin</a>
+- 👭 I'm an Product Owner for <a href="https://www.open-austin.org/">Open Austin</a>
 - My hobbies are 🏋️ 💃 🏃 🎭 
 - 📫 How to reach me **julielaursen1@gmail.com**
 
