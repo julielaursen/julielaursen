@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Julie Coleman* </h1>
-<h3 align="center">An experienced SDET and product owner with knowledge about frontend development, backend development, UX/UI, accessibility, cloud technologies, networking and security</h3>
-<p align="right"><i>*recent name change</i></p>
+
+![github-header-image (1)](https://github.com/user-attachments/assets/20cccab7-f36c-4e45-a130-a785c1ae3ae4)
+
+<h3 align="center">About me: I'm an experienced SDET and product owner with knowledge about frontend development, backend development, UX/UI, accessibility, cloud technologies, networking and security</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julielaursen&label=Profile%20views&color=0e75b6&style=flat" alt="julielaursen" /> </p>
 
