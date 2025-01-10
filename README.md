@@ -1,5 +1,5 @@
 
-![github-header-image (1)](https://github.com/user-attachments/assets/20cccab7-f36c-4e45-a130-a785c1ae3ae4)
+![github-header-image (2)](https://github.com/user-attachments/assets/1b48a27e-f8ad-4881-854c-51557c91dc5a)
 
 <h3 align="center">About me: I'm an experienced SDET and product owner with knowledge about frontend development, backend development, UX/UI, accessibility, cloud technologies, networking and security</h3>
 
