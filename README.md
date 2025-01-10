@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **UX/UI through Austin Community College**
 - 🤝 I'm an organizer focused on Marketing <a href="https://devopsdays.org/events/2025-austin/welcome/">DevOpsDays Austin</a>
-- 👭 I'm an Product Owner for <a href="https://www.open-austin.org/">Open Austin</a>. I have an MBA and am PMP and scrum certified.
+- 👭 I'm an Product Owner for <a href="https://www.open-austin.org/">Open Austin</a>. I have an MBA and I am PMP and scrum certified.
 - My hobbies are 🏋️ 💃 🏃 🎭 
 - 📫 How to reach me **julielaursen1@gmail.com**
 
