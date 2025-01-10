@@ -3,8 +3,6 @@
 
 <h3 align="center">About me: I'm an experienced SDET and product owner with knowledge about frontend development, backend development, UX/UI, accessibility, cloud technologies, networking and security</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=julielaursen&label=Profile%20views&color=0e75b6&style=flat" alt="julielaursen" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=julielaursen" alt="julielaursen" /></a> </p>
 
 - 🌱 I’m currently learning **UX/UI through Austin Community College**
@@ -25,4 +23,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=julielaursen&show_icons=true&locale=en" alt="julielaursen" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=julielaursen&label=Profile%20views&color=0e75b6&style=flat" alt="julielaursen" /> </p>
 
