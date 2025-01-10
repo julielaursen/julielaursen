@@ -9,10 +9,7 @@
 - 🤝 I'm an organizer focused on Digital Marketing for <a href="https://devopsdays.org/events/2025-austin/welcome/">DevOpsDays Austin</a>
 - 👭 I'm an Product Owner for <a href="https://www.open-austin.org/">Open Austin</a>. I have an MBA and I am PMP and scrum certified.
 - My hobbies are weightlifting 🏋🏼, country ballroom dancing 💃🏼, learning foreign languages 🇩🇪, cooking 🍳, and tabletop games 🎲
-
-A six-sided die, used in a range of board and turn-based games. Common...
-
-- 📫 How to reach me **julielaursen1@gmail.com**
+- 📫 Reach me at **julielaursen1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
