@@ -1,14 +1,14 @@
 
 ![github-header-image (2)](https://github.com/user-attachments/assets/1b48a27e-f8ad-4881-854c-51557c91dc5a)
 
-<h3 align="left">About me: I'm an experienced SDET and product owner with knowledge about frontend development, backend development, UX/UI, accessibility, cloud technologies, networking and security</h3>
+<h3 align="left">About me 👩🏽‍💻: I'm an experienced SDET and product owner with knowledge about frontend development, backend development, UX/UI, accessibility, cloud technologies, networking and security</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=julielaursen" alt="julielaursen" /></a> </p>
 
 - 🌱 I’m currently learning **UX/UI through Austin Community College**
-- 🤝 I'm an organizer focused on Marketing <a href="https://devopsdays.org/events/2025-austin/welcome/">DevOpsDays Austin</a>
+- 🤝 I'm an organizer focused on Digital Marketing for <a href="https://devopsdays.org/events/2025-austin/welcome/">DevOpsDays Austin</a>
 - 👭 I'm an Product Owner for <a href="https://www.open-austin.org/">Open Austin</a>. I have an MBA and I am PMP and scrum certified.
-- My hobbies are 🏋️ 💃 🏃 🎭 
+- My hobbies are weightlifting, country ballroom dancing, learning foreign languages, cooking, and tabletop games
 - 📫 How to reach me **julielaursen1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
