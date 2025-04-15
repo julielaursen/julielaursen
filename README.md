@@ -9,11 +9,16 @@
   </a>
 </p>
 
-
-- 🌱 I’m currently learning **UX/UI through Austin Community College**
-- 🤝 I'm an organizer focused on Digital Marketing for <a href="https://devopsdays.org/events/2025-austin/welcome/">DevOpsDays Austin</a>
-- 👭 I'm an Product Owner for <a href="https://www.open-austin.org/">Open Austin</a>. I have an MBA and I am PMP and scrum certified.
-- My hobbies are weightlifting 🏋🏼, country ballroom dancing 💃🏼, learning foreign languages 🇩🇪, cooking 🍳, and tabletop games 🎲
+✨ **Fun facts**
+- 🌱 Learning UX/UI @ Austin Community College  
+- 📣 Marketing Organizer for <a href="https://devopsdays.org/events/2025-austin/welcome/">DevOpsDays Austin</a>  
+- 👩‍💼 Product Owner @ <a href="https://www.open-austin.org/">Open Austin</a> | MBA | PMP | Scrum Certified  
+- 🎉 Hobbies:  
+  - 🏋🏼‍♀️ Weightlifting  
+  - 💃🏼 Country ballroom dancing  
+  - 🗣️ Languages 
+  - 🍳 Cooking  
+  - 🎲 Tabletop games  
 - 📫 Reach me at **julielaursen1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
