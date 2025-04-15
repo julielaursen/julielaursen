@@ -1,9 +1,14 @@
 
 ![Untitled design (3)](https://github.com/user-attachments/assets/8a97c8f1-3988-40de-9c0f-9b46b30ae192)
-
+<br>
 <h3 align="left">About me 👩🏽‍💻: I'm an experienced SDET and product owner with knowledge about frontend development, backend development, UX/UI, accessibility, cloud technologies, networking and security</h3>
+<br>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=julielaursen&row=1" alt="julielaursen trophies" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=julielaursen" alt="julielaursen" /></a> </p>
 
 - 🌱 I’m currently learning **UX/UI through Austin Community College**
 - 🤝 I'm an organizer focused on Digital Marketing for <a href="https://devopsdays.org/events/2025-austin/welcome/">DevOpsDays Austin</a>
