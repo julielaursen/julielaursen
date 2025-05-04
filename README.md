@@ -65,11 +65,27 @@
 </div>
 
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=julielaursen&show_icons=true&locale=en&layout=compact" alt="julielaursen" /></p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=julielaursen&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=julielaursen&show_icons=true&locale=en" alt="GitHub Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=julielaursen&" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://komarev.com/ghpvc/?username=julielaursen&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+    </td>
+  </tr>
+</table>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=julielaursen&show_icons=true&locale=en" alt="julielaursen" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=julielaursen&" alt="julielaursen" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=julielaursen&label=Profile%20views&color=0e75b6&style=flat" alt="julielaursen" /> </p>
 
