@@ -4,6 +4,7 @@
 <h2 align="left"> 💫 About me </h2> I'm an experienced SDET and product owner with knowledge about frontend development, backend development, UX/UI, accessibility, cloud technologies, networking and security
 <br>
 
+
 ✨ **Fun facts**
 - 🌱 Learning UX/UI @ Austin Community College  
 - 📣 Marketing Organizer for <a href="https://devopsdays.org/events/2025-austin/welcome/">DevOpsDays Austin</a>  
