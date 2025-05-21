@@ -6,7 +6,8 @@
 <br>
 
 ✨ **Fun facts**
-- 🌱 Learning UX/UI @ Austin Community College  
+- 🌱 Learning UX/UI @ Austin Community College
+- 🧪 SDET at Updater
 - 📣 Marketing Organizer for <a href="https://devopsdays.org/events/2025-austin/welcome/">DevOpsDays Austin</a>  
 - 👩‍💼 Product Owner @ <a href="https://www.open-austin.org/">Open Austin</a> | MBA | PMP | Scrum Certified  
 - 🎉 Hobbies:  
