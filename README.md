@@ -3,7 +3,7 @@
 <br>
 <h2 align="left"> 💫 About me </h2> I'm an experienced SDET and product owner with knowledge about frontend development, backend development, UX/UI, accessibility, cloud technologies, networking and security
 <br>
-
+<br>
 
 ✨ **Fun facts**
 - 🌱 Learning UX/UI @ Austin Community College  
