@@ -3,11 +3,6 @@
 <br>
 <h2 align="left"> 💫 About me </h2> I'm an experienced SDET and product owner with knowledge about frontend development, backend development, UX/UI, accessibility, cloud technologies, networking and security
 <br>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=julielaursen&row=1" alt="julielaursen trophies" />
-  </a>
-</p>
 
 ✨ **Fun facts**
 - 🌱 Learning UX/UI @ Austin Community College  
@@ -85,6 +80,11 @@
     </td>
   </tr>
 </table>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=julielaursen&row=1" alt="julielaursen trophies" />
+  </a>
+</p>
 
 
 
