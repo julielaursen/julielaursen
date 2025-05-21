@@ -1,7 +1,7 @@
 
 ![Untitled design (3)](https://github.com/user-attachments/assets/8a97c8f1-3988-40de-9c0f-9b46b30ae192)
 <br>
-<h3 align="left">About me 👩🏽‍💻: I'm an experienced SDET and product owner with knowledge about frontend development, backend development, UX/UI, accessibility, cloud technologies, networking and security</h3>
+<h2 align="left"> 💫 About me </h2> I'm an experienced SDET and product owner with knowledge about frontend development, backend development, UX/UI, accessibility, cloud technologies, networking and security
 <br>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -21,7 +21,7 @@
   - 🎲 Tabletop games  
 - 📫 Reach me at **julielaursen1@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h2>📱 Connect with me </h2>
 <p align="left" style="display: flex; gap: 10px; align-items: center;">
   <a href="https://dev.to/julielaursen" target="_blank">
     <img src="https://raw.githubusercontent.com/julielaursen/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" />
@@ -32,7 +32,7 @@
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h2>🛠️ Languages and Tools</h2>
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
 
@@ -63,7 +63,7 @@
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="50" height="50" />
 
 </div>
-
+<h2>📊 Github Stats</h2>
 <br>
 <table>
   <tr>
