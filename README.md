@@ -10,12 +10,6 @@
 - 🧪 Software Developer In Test at Updater
 - 📣 Marketing Organizer for <a href="https://devopsdays.org/events/2025-austin/welcome/">DevOpsDays Austin</a>  
 - 👩‍💼 Product Owner @ <a href="https://www.open-austin.org/">Open Austin</a> | MBA | PMP | Scrum Certified  
-- 🎉 Hobbies:  
-  - 🏋🏼‍♀️ Weightlifting  
-  - 💃🏼 Country ballroom dancing  
-  - 🗣️ Languages 
-  - 🍳 Cooking  
-  - 🎲 Tabletop games  
 - 📫 Reach me at **julielaursen1@gmail.com**
 
 <h2>📱 Connect with me </h2>
