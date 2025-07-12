@@ -80,6 +80,8 @@
     <img src="https://github-profile-trophy.vercel.app/?username=julielaursen&row=1" alt="julielaursen trophies" />
   </a>
 </p>
+  <h4>LeetCode Profile (started Jul 12 2025)</h4>
+  <img src="https://leetcode-badge-sage.vercel.app/badge/julielaursen1">
 
 
 
