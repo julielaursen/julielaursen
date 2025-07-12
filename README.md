@@ -1,7 +1,7 @@
 
 ![Untitled design (3)](https://github.com/user-attachments/assets/8a97c8f1-3988-40de-9c0f-9b46b30ae192)
 <br>
-<h2 align="left"> 💫 About me </h2> I'm an experienced SDET and product owner with knowledge about frontend development, backend development, UX/UI, accessibility, cloud technologies, networking and security
+<h2 align="left"> 💫 About me </h2> T-Shaped Generalist working on becoming an E-Shaped Generalist
 <br>
 <br>
 
