@@ -56,16 +56,14 @@
       <td><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="graphql" 
   width="50" height="50" /></td>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" /></td>                            
-      <td><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60
-  c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="50" height="50" /></td>  
+      <td><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="50" height="50" /></td>  
       <td><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" 
   alt="gcp" width="50" height="50" /></td>                                                    
       <td><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" 
   alt="kubernetes" width="50" height="50" /></td>                                             
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linu
   x-original.svg" alt="linux" width="50" height="50" /></td>                                  
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nod
-  ejs-original-wordmark.svg" alt="nodejs" width="50" height="50" /></td>                      
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" /></td>                      
       <td><img                                                         
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"  
   alt="php" width="50" height="50" /></td>
@@ -74,8 +72,7 @@
       <td><img 
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
    alt="sass" width="50" height="50" /></td>                           
-      <td><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994
-  181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="50" height="50" /></td>      
+      <td><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="50" height="50" /></td>      
     </tr>
   </table>         
 <h2>📊 Github Stats</h2>
