@@ -61,14 +61,12 @@
   alt="gcp" width="50" height="50" /></td>                                                    
       <td><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" 
   alt="kubernetes" width="50" height="50" /></td>                                             
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linu
-  x-original.svg" alt="linux" width="50" height="50" /></td>                                  
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" /></td>                                  
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" /></td>                      
       <td><img                                                         
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"  
   alt="php" width="50" height="50" /></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql
-  /postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50" /></td>          
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50" /></td>          
       <td><img 
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
    alt="sass" width="50" height="50" /></td>                           
