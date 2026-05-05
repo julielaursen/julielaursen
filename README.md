@@ -55,8 +55,7 @@
     <tr>                                                                                      
       <td><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="graphql" 
   width="50" height="50" /></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-
-  original-wordmark.svg" alt="css3" width="50" height="50" /></td>                            
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" /></td>                            
       <td><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60
   c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="50" height="50" /></td>  
       <td><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" 
